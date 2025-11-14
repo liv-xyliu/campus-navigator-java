@@ -2,8 +2,9 @@ package place;
 
 import utils.Constants;
 import utils.PlaceType;
+import interfaces.Bookable;
 
-public class SportsCentre extends Place {
+public class SportsCentre extends Place implements Bookable {
     private boolean booked;
 
     public SportsCentre(String name, double score) {
