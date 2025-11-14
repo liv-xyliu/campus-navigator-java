@@ -3,12 +3,13 @@ package place;
 import events.Event;
 import utils.Constants;
 import utils.PlaceType;
+import interfaces.Bookable;
 
 import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.List;
 
-public class EventHall extends Place {
+public class EventHall extends Place implements Bookable {
     private boolean booked;
     private ArrayList<Event> events = new ArrayList<>();
 
