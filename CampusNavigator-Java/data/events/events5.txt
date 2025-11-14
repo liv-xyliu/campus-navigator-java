@@ -1,0 +1,31 @@
+row_id,col_id,event_type,date,start_time,end_time,score,name,speaker
+1,2,lecture,2024-05-14,09:00,10:30,8.9,Data Science,Dr. Alice Martin
+4,7,exam,2024-05-15,11:00,12:30,7.1,Robotics,Dr. Tom Richardson
+2,2,lecture,2024-05-16,13:00,14:30,9.3,Machine Learning,Dr. Chloe Nguyen
+2,6,lecture,2024-05-17,10:00,11:00,6.7,Software Engineering,Dr. Sophia Ahmed
+3,7,lecture,2024-05-18,15:00,16:30,8.5,Quantum Physics,Dr. Michael Brown
+1,2,lecture,2024-05-19,12:00,13:30,7.4,Organic Chemistry,Dr. Olivia White
+5,2,lecture,2024-05-20,14:00,15:00,Statistics,Dr. Henry Green
+5,1,lecture,2024-05-21,09:00,10:30,8.6,Philosophy,Dr. Grace Lin
+6,3,lecture,2024-05-22,11:00,12:30,7.9,Genetics,Dr. Rachel Lee
+2,6,lecture,2024-05-23,13:00,14:30,9.0,Microbiology,Dr. Kevin Young
+6,5,lecture,2024-05-24,10:00,11:00,6.8,Environmental Science,Dr. Peter Hall
+2,6,exams,2024-05-25,09:00,10:30,8.4,Algorithms,Dr. Susan King
+1,3,seminar,2024-05-25,09:00,10:30,8.2,AI Seminar,Dr. Susan King#Dr. Emma Stone
+1,3,lecture,2024-05-26,11:00,12:30,7.5,Discrete Math,Dr. Julia Adams
+1,3,exam,2024-05-27,13:00,14:30,9.1,Computer System,Dr. Victor Lee
+3,6,seminar,2024-05-28,10:00,11:00,6.9,Robotics Seminar,Dr. Mark Evans#Dr. Linda Brown
+3,6,exam,2024-05-29,15:00,16:30,8.7,,Dr. Brian Fox
+5,3,,2024-05-21,09:00,10:30,8.6,Philosophy,Dr. Grace Lin
+5,2,lecture,2024-05-14,09:00,10:30,8.5,Engineering,Dr. Alice Martin
+1,3,lecture,2024-05-15,11:00,12:30,7.4,Agriculture,Dr. Tom Richardson
+1,3,seminar,2024-05-16,13:00,14:30,9.0,Seminar,Dr. Chloe Nguyen#Dr. Sophia Ahmed
+6,2,exam,2024-05-17,10:00,11:00,,Midterm,Dr. Michael Brown
+2,2,lecture,2024-05-18,15:00,16:30,8.7,Chemistry,Dr. Olivia White
+2,2,lecture,2024-05-19,12:00,13:30,7.6,Physics,Dr. Henry Green
+6,6,seminar,2024-05-20,14:00,15:00,Research Seminar,Dr. Grace Lin#Dr. Rachel Lee
+2,6,lecture,2024-05-21,09:00,10:30,8.2,Mathematics,Dr. Kevin Young
+6,7,seminar,2024-05-22,11:00,12:30,Technology Seminar,Dr. Peter Hall#Dr. Susan King
+3,7,lecture,2024-05-23,13:00,14:30,9.1,Literature,Dr. Emma Stone
+3,6,seminar,2024-05-24,10:00,11:00,8.3,Science Seminar,Dr. Kevin Young#Dr. Susan King
+3,8,exam,2024-05-25,09:00,10:30,7.7,Physics,Dr. Peter Hall
